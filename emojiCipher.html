@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoji Secret Cipher</title>
+    <link rel="stylesheet" href="emojiCipher.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Emoji Cipher</h1>
+        <p>Ketik pesan atau paste emoji di sini!</p>
+        
+        <textarea id="inputText" placeholder="Tulis atau paste di sini..."></textarea>
+        
+        <div class="result-container">
+            <h3>Hasil:</h3>
+            <div id="outputEmoji" class="emoji-display">Menunggu input...</div>
+            
+            <div class="button-group">
+                <button id="actionBtn">Proses</button>
+                <button id="copyBtn">Salin Hasil</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="emojiCipher.js"></script>
+</body>
+</html>
