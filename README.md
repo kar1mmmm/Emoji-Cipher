@@ -13,5 +13,5 @@ Web app untuk konversi teks ke emoji dan sebaliknya.
 - emoniCipher.js
 
 ## Cara Pakai
-1. Download aja file source code nya atau juga boleh,trus open di live server
+1. Download aja file source code nya atau di salin juga boleh,trus open di live server
 2. Kenapa gak di up ke githubPage?,Pertama karena malas , kedua yazem bilang : githubPage in 2026?
